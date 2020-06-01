@@ -3,6 +3,9 @@ name = "rss_client"
 version = "0.1.0"
 authors = ["GrSpirit <gr.spirit@gmail.com>"]
 edition = "2018"
+license = "MIT"
+keywords = ["hyper, tokio, rss, xml"]
+repository = "https://github.com/GrSpirit/rss_client"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
